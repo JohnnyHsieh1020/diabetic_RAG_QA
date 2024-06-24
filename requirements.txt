@@ -1,0 +1,6 @@
+langchain_community
+langchain-huggingface
+faiss-cpu
+google-generativeai
+python-decouple
+pypdf
