@@ -24,7 +24,7 @@
 ├── README.md
 ├── requirements.txt
 └── create_vector_db.py
-
+````
 ## Resources Used
 
 - Python Version: 3.11.9
@@ -33,4 +33,3 @@
   - Install [requirements](https://github.com/JohnnyHsieh1020/diabetic_RAG_QA/blob/main/requirements.txt)
   ```terminal
   pip install -r requirements.txt
-````
